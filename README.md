@@ -18,4 +18,5 @@ Clique <a href="https://isabellacpmelo.github.io/noticias-cidade/">aqui</a> para
 ### Páginas Adjacentes
 <img width="500" src="img/print2.png">
 </br>
+</br>
 <img width="500" src="img/print3.png">
